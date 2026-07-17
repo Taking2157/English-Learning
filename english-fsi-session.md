@@ -1,5 +1,7 @@
 # FSI English Pattern Drill - Session Record
 
+Last updated: 2026-07-17
+
 ## Learning Objective
 
 - Level: Beginner English
@@ -33,29 +35,36 @@
    - Substitution Drill: 10/10
    - Transformation Drill: 10/10
    - Final answer completed: `Will you be able to help me with this problem tomorrow?`
+8. Sentences 8-19
+   - Substitution Drill: 10/10 for each sentence
+   - Transformation Drill: 10/10 for each sentence
+9. `I'm still not used to driving on the left.` (Sentence 20)
+   - Substitution Drill: 10/10
+   - Transformation Drill: 10/10
+   - Final answer completed: `My coworkers are still not used to working from home.`
 
 ## Current Position
 
-### Sentence 8
+### Sentence 21
 
 Base sentence:
 
-`Have you ever been to Japan?`
+`I used to get up late, but now I'm used to getting up early.`
 
-Chinese meaning: 你曾经去过日本吗？
+Chinese meaning: 我过去常常晚起，但现在已经习惯早起了。
 
 Current exercise:
 
 - Drill: Substitution Drill
 - Item: 1/10
-- Prompt: `France`
-- Expected answer: `Have you ever been to France?`
+- Prompt: `drive to work / taking the train`
+- Expected answer: `I used to drive to work, but now I'm used to taking the train.`
 - This item has not been answered yet.
 
 ## How to Continue
 
 Give the new tutor this file and say:
 
-> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示词，等我回答后再判断。答错时立即纠正并让我重做当前次数。请从句型 8 的 Substitution Drill 第 1/10 次开始，当前提示词是 France。
+> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。请从句型 21 的 Substitution Drill 第 1/10 次开始，当前提示是 drive to work / taking the train。
 
-After Sentence 8 Substitution Drill reaches 10/10, continue with 10 Transformation Drills before introducing Sentence 9.
+After Sentence 21 Substitution Drill reaches 10/10, continue with 10 Transformation Drills before introducing Sentence 22.
