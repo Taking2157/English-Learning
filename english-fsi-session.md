@@ -1,6 +1,6 @@
 # FSI English Pattern Drill - Session Record
 
-Last updated: 2026-07-20
+Last updated: 2026-07-21
 
 ## Learning Objective
 
@@ -57,6 +57,11 @@ Last updated: 2026-07-20
     - Transformation Drill: 10/10
     - Practiced present perfect continuous, question forms, tag questions, and past/future perfect continuous forms.
     - Final answer completed: `Will you have been studying English for three years by next July?`
+13. `The woman who lives next door is a doctor.` (Sentence 24)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+    - Practiced subject relative clauses with `who`.
+    - Final answer completed: `The nurse who took care of me is his sister.`
 
 ## Review Notes From This Session
 
@@ -67,29 +72,30 @@ Last updated: 2026-07-20
 - In an if-clause, use the present simple: `If it doesn't rain...`, not `If it isn't rain...`.
 - Spelling corrected during practice: `practicing` and `barking`.
 - Distinguish a tag question (`..., haven't you?`) from a negative question (`Haven't you...?`).
+- Sentence 24 corrections: include the final period and preserve the prompted word `manager` rather than substituting `neighbor`.
 
 ## Current Position
 
-### Sentence 24
+### Sentence 25
 
 Base sentence:
 
-`The woman who lives next door is a doctor.`
+`The book that I bought yesterday is very interesting.`
 
-Chinese meaning: 住在隔壁的那位女士是一名医生。
+Chinese meaning: 我昨天买的那本书很有趣。
 
 Current exercise:
 
 - Drill: Substitution Drill
 - Item: 1/10
-- Prompt: `man / works at the bank / my uncle`
-- Expected answer: `The man who works at the bank is my uncle.`
+- Prompt: `movie / we watched last night / very exciting`
+- Expected answer: `The movie that we watched last night is very exciting.`
 - This item has not been answered yet.
 
 ## How to Continue
 
 Give the new tutor this file and say:
 
-> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。请从句型 24 的 Substitution Drill 第 1/10 次开始，当前提示是 man / works at the bank / my uncle。
+> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。每个句型依次完成 10 次 Substitution Drill 和 10 次 Transformation Drill，然后自动进入下一个句型并连贯训练，不要询问是否继续；只有当我主动说“停止”或“休息”时才暂停。请从句型 25 的 Substitution Drill 第 1/10 次开始，当前提示是 movie / we watched last night / very exciting。
 
-After Sentence 24 Substitution Drill reaches 10/10, continue with 10 Transformation Drills before introducing Sentence 25.
+For every sentence, complete all 10 Substitution Drills and then all 10 Transformation Drills before introducing the next sentence. Continue automatically until the learner explicitly asks to stop or rest.
