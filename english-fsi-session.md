@@ -62,6 +62,16 @@ Last updated: 2026-07-21
     - Transformation Drill: 10/10
     - Practiced subject relative clauses with `who`.
     - Final answer completed: `The nurse who took care of me is his sister.`
+14. `The book that I bought yesterday is very interesting.` (Sentence 25)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+15. Sentence 26 (base sentence unavailable in the current conversation context)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+16. `I could use...` (Sentence 27)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+    - Final answer completed: `I could use a good laugh after such a stressful week.`
 
 ## Review Notes From This Session
 
@@ -73,29 +83,40 @@ Last updated: 2026-07-21
 - Spelling corrected during practice: `practicing` and `barking`.
 - Distinguish a tag question (`..., haven't you?`) from a negative question (`Haven't you...?`).
 - Sentence 24 corrections: include the final period and preserve the prompted word `manager` rather than substituting `neighbor`.
+- Sentence 27 corrections: use the active target `I could use...`, spell `carrying` correctly, use `these bags`, and preserve the prompted word `some`.
+
+## Learner Preferences
+
+- Do not repeat completed patterns unless the learner explicitly requests review after forgetting one.
+- Do not concentrate further training on clauses; they have already been practiced for several days.
+- After a correct answer, repeat the accepted English sentence and put its Chinese translation on the next line in a Markdown `IMPORTANT` alert.
+- Do not use HTML or CSS to highlight translations.
+- Read accepted sentences aloud when the active client supports audio.
+- Give one prompt at a time and continue automatically until the learner says to stop or rest.
 
 ## Current Position
 
-### Sentence 25
+### Sentence 28
 
-Base sentence:
+Target structure:
 
-`The book that I bought yesterday is very interesting.`
+`I ended up + verb-ing...`
 
-Chinese meaning: 我昨天买的那本书很有趣。
+Chinese meaning: 最后还是…… / 结果……
 
 Current exercise:
 
 - Drill: Substitution Drill
 - Item: 1/10
-- Prompt: `movie / we watched last night / very exciting`
-- Expected answer: `The movie that we watched last night is very exciting.`
+- Prompt: `stay home / because I felt tired`
+- Expected answer: `I ended up staying home because I felt tired.`
 - This item has not been answered yet.
+- Status: Paused by `/endtraining`.
 
 ## How to Continue
 
 Give the new tutor this file and say:
 
-> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。每个句型依次完成 10 次 Substitution Drill 和 10 次 Transformation Drill，然后自动进入下一个句型并连贯训练，不要询问是否继续；只有当我主动说“停止”或“休息”时才暂停。请从句型 25 的 Substitution Drill 第 1/10 次开始，当前提示是 movie / we watched last night / very exciting。
+> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。不要重复已经完成的句型，除非我明确要求复习。答对后重复英文答案，并在下一行用 Markdown `IMPORTANT` 提示块显示中文翻译，不要使用 HTML 或 CSS。每个句型依次完成 10 次 Substitution Drill 和 10 次 Transformation Drill，然后自动进入下一个句型并连贯训练，不要询问是否继续；只有当我主动说“停止”或“休息”时才暂停。请从句型 28 的 Substitution Drill 第 1/10 次开始，当前提示是 stay home / because I felt tired。
 
-For every sentence, complete all 10 Substitution Drills and then all 10 Transformation Drills before introducing the next sentence. Continue automatically until the learner explicitly asks to stop or rest.
+For every sentence, complete all 10 Substitution Drills and then all 10 Transformation Drills before introducing the next sentence. Never repeat a completed pattern unless the learner explicitly requests review. Continue automatically until the learner explicitly asks to stop or rest.
