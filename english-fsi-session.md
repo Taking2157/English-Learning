@@ -1,6 +1,6 @@
 # FSI English Pattern Drill - Session Record
 
-Last updated: 2026-07-21
+Last updated: 2026-07-22
 
 ## Learning Objective
 
@@ -72,6 +72,18 @@ Last updated: 2026-07-21
     - Substitution Drill: 10/10
     - Transformation Drill: 10/10
     - Final answer completed: `I could use a good laugh after such a stressful week.`
+17. `I ended up + verb-ing...` (Sentence 28)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+    - Final answer completed: `I ended up finding a different solution.`
+18. `It takes me + time + to + verb...` (Sentence 29)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+    - Final answer completed: `It takes me two hours to update the website.`
+19. `I'm supposed to + verb...` (Sentence 30)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+    - Final answer completed: `I'm supposed to be at the station by six o'clock.`
 
 ## Review Notes From This Session
 
@@ -84,6 +96,8 @@ Last updated: 2026-07-21
 - Distinguish a tag question (`..., haven't you?`) from a negative question (`Haven't you...?`).
 - Sentence 24 corrections: include the final period and preserve the prompted word `manager` rather than substituting `neighbor`.
 - Sentence 27 corrections: use the active target `I could use...`, spell `carrying` correctly, use `these bags`, and preserve the prompted word `some`.
+- Sentence 28 correction: use the past form `ended up`, not `end up`, for a prompted past situation.
+- Spelling corrected during Sentences 29-30: `hour`, `tomorrow`, `return`, and `before`.
 
 ## Learner Preferences
 
@@ -96,20 +110,20 @@ Last updated: 2026-07-21
 
 ## Current Position
 
-### Sentence 28
+### Sentence 31
 
 Target structure:
 
-`I ended up + verb-ing...`
+`I'd rather + verb + than + verb...`
 
-Chinese meaning: 最后还是…… / 结果……
+Chinese meaning: 宁愿……也不愿……
 
 Current exercise:
 
 - Drill: Substitution Drill
 - Item: 1/10
-- Prompt: `stay home / because I felt tired`
-- Expected answer: `I ended up staying home because I felt tired.`
+- Prompt: `stay home / go out tonight`
+- Expected answer: `I'd rather stay home than go out tonight.`
 - This item has not been answered yet.
 - Status: Paused by `/endtraining`.
 
@@ -117,6 +131,6 @@ Current exercise:
 
 Give the new tutor this file and say:
 
-> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。不要重复已经完成的句型，除非我明确要求复习。答对后重复英文答案，并在下一行用 Markdown `IMPORTANT` 提示块显示中文翻译，不要使用 HTML 或 CSS。每个句型依次完成 10 次 Substitution Drill 和 10 次 Transformation Drill，然后自动进入下一个句型并连贯训练，不要询问是否继续；只有当我主动说“停止”或“休息”时才暂停。请从句型 28 的 Substitution Drill 第 1/10 次开始，当前提示是 stay home / because I felt tired。
+> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。不要重复已经完成的句型，除非我明确要求复习。答对后重复英文答案，并在下一行用 Markdown `IMPORTANT` 提示块显示中文翻译，不要使用 HTML 或 CSS。每个句型依次完成 10 次 Substitution Drill 和 10 次 Transformation Drill，然后自动进入下一个句型并连贯训练，不要询问是否继续；只有当我主动说“停止”或“休息”时才暂停。请从句型 31 的 Substitution Drill 第 1/10 次开始，当前提示是 stay home / go out tonight。
 
 For every sentence, complete all 10 Substitution Drills and then all 10 Transformation Drills before introducing the next sentence. Never repeat a completed pattern unless the learner explicitly requests review. Continue automatically until the learner explicitly asks to stop or rest.
