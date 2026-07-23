@@ -1,6 +1,6 @@
 # FSI English Pattern Drill - Session Record
 
-Last updated: 2026-07-22
+Last updated: 2026-07-23
 
 ## Learning Objective
 
@@ -84,6 +84,14 @@ Last updated: 2026-07-22
     - Substitution Drill: 10/10
     - Transformation Drill: 10/10
     - Final answer completed: `I'm supposed to be at the station by six o'clock.`
+20. `I'd rather + verb + than + verb...` (Sentence 31)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+    - Final answer completed: `I'd rather accept the offer than lose this opportunity.`
+21. `You'd better + verb...` (Sentence 32)
+    - Substitution Drill: 10/10
+    - Transformation Drill: 10/10
+    - Final answer completed: `You'd better renew your passport before booking the flight.`
 
 ## Review Notes From This Session
 
@@ -98,6 +106,7 @@ Last updated: 2026-07-22
 - Sentence 27 corrections: use the active target `I could use...`, spell `carrying` correctly, use `these bags`, and preserve the prompted word `some`.
 - Sentence 28 correction: use the past form `ended up`, not `end up`, for a prompted past situation.
 - Spelling corrected during Sentences 29-30: `hour`, `tomorrow`, `return`, and `before`.
+- Sentence 31 Substitution Drill 4/10 correction: include the final period.
 
 ## Learner Preferences
 
@@ -110,27 +119,27 @@ Last updated: 2026-07-22
 
 ## Current Position
 
-### Sentence 31
+### Sentence 33
 
 Target structure:
 
-`I'd rather + verb + than + verb...`
+`Would you mind + verb-ing...?`
 
-Chinese meaning: 宁愿……也不愿……
+Chinese meaning: 你介意……吗？
 
 Current exercise:
 
 - Drill: Substitution Drill
 - Item: 1/10
-- Prompt: `stay home / go out tonight`
-- Expected answer: `I'd rather stay home than go out tonight.`
+- Prompt: `close the window`
+- Expected answer: `Would you mind closing the window?`
 - This item has not been answered yet.
-- Status: Paused by `/endtraining`.
+- Status: Prompt issued but not answered; paused by explicit end-training request.
 
 ## How to Continue
 
 Give the new tutor this file and say:
 
-> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。不要重复已经完成的句型，除非我明确要求复习。答对后重复英文答案，并在下一行用 Markdown `IMPORTANT` 提示块显示中文翻译，不要使用 HTML 或 CSS。每个句型依次完成 10 次 Substitution Drill 和 10 次 Transformation Drill，然后自动进入下一个句型并连贯训练，不要询问是否继续；只有当我主动说“停止”或“休息”时才暂停。请从句型 31 的 Substitution Drill 第 1/10 次开始，当前提示是 stay home / go out tonight。
+> 请按照这份记录继续我的 FSI 初级英语 Pattern Drill。一次只给一个提示，等我回答后再判断。严格检查句型、提示词、拼写和标点；答错时立即纠正并让我重做当前次数。不要重复已经完成的句型，除非我明确要求复习。答对后重复英文答案，并在下一行用 Markdown `IMPORTANT` 提示块显示中文翻译，不要使用 HTML 或 CSS。每个句型依次完成 10 次 Substitution Drill 和 10 次 Transformation Drill，然后自动进入下一个句型并连贯训练，不要询问是否继续；只有当我主动说“停止”或“休息”时才暂停。请从句型 33 的 Substitution Drill 第 1/10 次继续，当前提示是 close the window，预期答案是 Would you mind closing the window?
 
 For every sentence, complete all 10 Substitution Drills and then all 10 Transformation Drills before introducing the next sentence. Never repeat a completed pattern unless the learner explicitly requests review. Continue automatically until the learner explicitly asks to stop or rest.
